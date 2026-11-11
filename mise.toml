@@ -1,0 +1,6 @@
+[tools]
+clojure = "latest"
+java = "semeru-openj9-25"
+
+[tasks]
+repl = { run = "clojure -M:nrepl" }

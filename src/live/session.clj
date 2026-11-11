@@ -1,6 +1,7 @@
 (ns live.session
   (:require [overtone.core :as o]))
 
+
 (defn boot!
   "Start SuperCollider with stereo output."
   []
